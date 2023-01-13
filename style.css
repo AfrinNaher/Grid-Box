@@ -1,3 +1,10 @@
 .box-container{
     display: grid;border: 2px solid black;
+
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 600;
+    color: midnightblue;
 }
